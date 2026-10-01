@@ -2,7 +2,7 @@
 
 A LangGraph-powered AI assistant with three specialized agents, built with Groq, Tavily, Qdrant, E2B, and Streamlit.
 
-🚀 **Live Demo:** [multi-agent-system-kd3gz4dqrpamrocypgeluj.streamlit.app](https://multi-agent-system-kd3gz4dqrpamrocypgeluj.streamlit.app)
+🚀 **Live Demo:** https://multi-agent-system-ftsvfveymmvboambff6ydn.streamlit.app/
 
 ---
 
