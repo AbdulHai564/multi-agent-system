@@ -84,7 +84,7 @@ elif st.session_state.active_agent == "shakespeare":
     st.header("Shakespeare — Document Q&A")
 
     if not st.session_state.pdf_loaded:
-        uploaded = st.file_uploader("Please upload ypur PDF to get started", type=["pdf"])
+        uploaded = st.file_uploader("Please upload your PDF to get started", type=["pdf"])
         if uploaded:
             with st.spinner("Loading up"):
                 with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as f:
